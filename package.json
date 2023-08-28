@@ -1,0 +1,9 @@
+{
+  "name": "skoop-shared-libraries",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "./index.ts",
+  "peerDependencies": {
+    "react": "18.2.0"
+  }
+}
